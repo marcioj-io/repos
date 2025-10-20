@@ -1,0 +1,11 @@
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Domain\bin\Debug\net9.0\MealPlanApp.Domain.deps.json
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Domain\bin\Debug\net9.0\MealPlanApp.Domain.dll
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Domain\bin\Debug\net9.0\MealPlanApp.Domain.pdb
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Domain\obj\Debug\net9.0\MealPlanApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Domain\obj\Debug\net9.0\MealPlanApp.Domain.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Domain\obj\Debug\net9.0\MealPlanApp.Domain.AssemblyInfo.cs
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Domain\obj\Debug\net9.0\MealPlanApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Domain\obj\Debug\net9.0\MealPlanApp.Domain.dll
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Domain\obj\Debug\net9.0\refint\MealPlanApp.Domain.dll
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Domain\obj\Debug\net9.0\MealPlanApp.Domain.pdb
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Domain\obj\Debug\net9.0\ref\MealPlanApp.Domain.dll

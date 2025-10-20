@@ -1,0 +1,87 @@
+[
+  {
+    "ContainingType": "MealPlanApp.Api.Controllers.MealPlanController",
+    "Method": "Get",
+    "RelativePath": "api/MealPlan",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MealPlanApp.Api.Controllers.MealPlanController",
+    "Method": "Create",
+    "RelativePath": "api/MealPlan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "MealPlanApp.Domain.Dtos.MealPlanDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MealPlanApp.Api.Controllers.MealPlanController",
+    "Method": "GetById",
+    "RelativePath": "api/MealPlan/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MealPlanApp.Api.Controllers.MealPlanController",
+    "Method": "Update",
+    "RelativePath": "api/MealPlan/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "MealPlanApp.Domain.Dtos.MealPlanDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MealPlanApp.Api.Controllers.MealPlanController",
+    "Method": "Delete",
+    "RelativePath": "api/MealPlan/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

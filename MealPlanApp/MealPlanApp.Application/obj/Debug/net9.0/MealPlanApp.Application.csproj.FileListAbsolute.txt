@@ -1,0 +1,17 @@
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\bin\Debug\net9.0\MealPlanApp.Application.deps.json
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\bin\Debug\net9.0\MealPlanApp.Application.dll
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\bin\Debug\net9.0\MealPlanApp.Application.pdb
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\bin\Debug\net9.0\MealPlanApp.Domain.dll
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\bin\Debug\net9.0\MealPlanApp.Infrastructure.dll
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\bin\Debug\net9.0\MealPlanApp.Domain.pdb
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\bin\Debug\net9.0\MealPlanApp.Infrastructure.pdb
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\obj\Debug\net9.0\MealPlanApp.Application.csproj.AssemblyReference.cache
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\obj\Debug\net9.0\MealPlanApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\obj\Debug\net9.0\MealPlanApp.Application.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\obj\Debug\net9.0\MealPlanApp.Application.AssemblyInfo.cs
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\obj\Debug\net9.0\MealPlanApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\obj\Debug\net9.0\MealPlan.A2EEE555.Up2Date
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\obj\Debug\net9.0\MealPlanApp.Application.dll
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\obj\Debug\net9.0\refint\MealPlanApp.Application.dll
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\obj\Debug\net9.0\MealPlanApp.Application.pdb
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Application\obj\Debug\net9.0\ref\MealPlanApp.Application.dll

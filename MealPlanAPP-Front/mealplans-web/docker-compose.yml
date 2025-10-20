@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  mealplan-frontend:
+    build:
+      context: .                # caminho atual (onde está o Dockerfile)
+      dockerfile: Dockerfile
+    container_name: mealplan-frontend
+    ports:
+      - "3000:80"               # 80 é o padrão do Nginx no container
+    environment:
+      - NODE_ENV=production
+    restart: always

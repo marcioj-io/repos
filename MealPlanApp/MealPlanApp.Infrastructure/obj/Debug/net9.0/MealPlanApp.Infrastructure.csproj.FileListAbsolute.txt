@@ -1,0 +1,17 @@
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\bin\Debug\net9.0\MealPlanApp.Infrastructure.deps.json
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\bin\Debug\net9.0\MealPlanApp.Infrastructure.runtimeconfig.json
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\bin\Debug\net9.0\MealPlanApp.Infrastructure.dll
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\bin\Debug\net9.0\MealPlanApp.Infrastructure.pdb
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\bin\Debug\net9.0\MealPlanApp.Domain.dll
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\bin\Debug\net9.0\MealPlanApp.Domain.pdb
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\obj\Debug\net9.0\MealPlanApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\obj\Debug\net9.0\MealPlanApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\obj\Debug\net9.0\MealPlanApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\obj\Debug\net9.0\MealPlanApp.Infrastructure.AssemblyInfo.cs
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\obj\Debug\net9.0\MealPlanApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\obj\Debug\net9.0\MealPlan.81D08A5F.Up2Date
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\obj\Debug\net9.0\MealPlanApp.Infrastructure.dll
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\obj\Debug\net9.0\refint\MealPlanApp.Infrastructure.dll
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\obj\Debug\net9.0\MealPlanApp.Infrastructure.pdb
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\obj\Debug\net9.0\MealPlanApp.Infrastructure.genruntimeconfig.cache
+C:\Users\marci\source\repos\MealPlanApp\MealPlanApp.Infrastructure\obj\Debug\net9.0\ref\MealPlanApp.Infrastructure.dll
