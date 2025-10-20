@@ -1,5 +1,3 @@
-Perfeito — aqui está um **README.md final**, com as seções organizadas claramente entre **Backend** e **Frontend**, mas mantendo tudo integrado para uso full-stack com Docker Compose.
-Usei uma estrutura elegante e didática, sem redundância:
 
 ---
 
